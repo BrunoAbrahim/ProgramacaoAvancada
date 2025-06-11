@@ -15,5 +15,6 @@ public class Main {
             System.out.println("Autonomia: " + veiculo.calcularAutonomia() + " km");
             System.out.println("---------------------------");
         }
+
     }
 }
